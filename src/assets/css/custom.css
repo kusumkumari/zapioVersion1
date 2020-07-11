@@ -1,0 +1,280 @@
+.Plus-Button {
+  border-radius: 500px;
+  height: 25px;
+  width: 25px;
+  padding: 0;
+  background: white;
+  font-size: 16px;
+  border: 1px solid;
+}
+.rt-td {
+  white-space: wrap !important ;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.flex {
+  width: 50%;
+}
+
+.modal .modal-header {
+  padding: 1rem;
+}
+.navbar .navbar-right .user {
+  margin-right: 30px;
+}
+.navbar .header-icons {
+  margin-right: 6px;
+}
+.navbar .navbar-right {
+  flex-basis: 46%;
+  text-align: right;
+  margin-top: -11px;
+}
+.p1-1 {
+  border-left: 1px solid #d7d7d7;
+}
+.clockdate-wrapper {
+  /* background-color: #333; */
+  padding: 2rem;
+  /* max-width:350px; */
+  height: auto !important;
+  width: 100%;
+  /* text-align:center; */
+  border-radius: 5px;
+  margin: 0 auto;
+  color: #fff;
+  /* margin-top:15%; */
+}
+#clock {
+  /* background-color:#333; */
+  height: auto !important;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-shadow: 0px 0px 1px #fff;
+  color: #fff;
+}
+#clock span {
+  color: #888;
+  text-shadow: 0px 0px 1px #333;
+  font-size: 18px;
+  position: relative;
+  /* top:-27px; */
+  /* left:-10px; */
+}
+#date {
+  letter-spacing: 3px;
+  font-size: 12px;
+  font-family: arial, sans-serif;
+  color: #fff;
+}
+
+.form-control {
+  margin: 0.3rem 0;
+}
+
+.wd-50 {
+  width: 50%;
+  margin: 5px 0;
+}
+
+.font-600 {
+  font-weight: 600;
+}
+
+.h5-modal {
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 15px;
+}
+
+.flex-end {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 5px;
+}
+
+.mg-10 {
+  margin: 10px;
+}
+.font-large {
+  font-size: x-large;
+}
+.inline {
+  display: inline;
+}
+
+.btns-1-1 {
+  margin: 16px 0px;
+  padding: 0px 16px !important;
+  border: 0;
+  border-radius: 500px;
+  line-height: 1.6;
+}
+.space-between {
+  justify-content: space-between;
+}
+#customersts {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customersts td,
+#customersts th {
+  border: 1px solid #ddd;
+  padding: 8px 8px 8px 8px;
+  height: 58px;
+}
+.tp > table {
+  width: 9%;
+}
+
+#customersts th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color: white;
+  width: 188px !important;
+}
+.flexboxes {
+  display: flex;
+}
+.modal-title {
+  display: flex;
+  line-height: 2.2 !important;
+}
+.customeDate {
+  width: 50% !important;
+  background-color: chocolate;
+}
+.blink {
+  animation: blinker 0.6s linear infinite;
+  /* color: #1c87c9; */
+  font-size: 20px;
+  font-family: sans-serif;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+@media (max-width: 997px) {
+  .btns-adjs {
+    padding: 4px 6px;
+  }
+  .adjs-1-2 {
+    padding: 4px !important;
+  }
+  .flexboxes {
+    display: block;
+  }
+}
+.ft-s {
+  line-height: 2.3;
+}
+.btp {
+  width: 152px !important;
+  padding: 20px 6px !important;
+}
+
+.ReactTable .rt-thead .rt-resizable-header-content {
+  text-align: center;
+}
+.rt-tbody {
+  text-align: center;
+}
+
+.text-success {
+  color: green;
+}
+.text-error {
+  color: red;
+}
+.badge {
+  width: 135px;
+}
+.modal-dialog {
+  max-width: 1091px;
+}
+
+.react-ts {
+  width: 25% !important;
+}
+
+.ft-6s {
+  line-height: 2.2;
+  font-size: large;
+  background: #ffffff;
+  padding: 0 9px;
+  border-radius: 500px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  box-shadow: #ccc 0px 3px 5px;
+}
+
+.col-2-1 {
+  width: 200px;
+}
+
+.orders-card-icon {
+  width: 25px;
+  height: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.orders-card-title {
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 0 0 5px;
+}
+.orders-value {
+  font-size: 1.2rem;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.css-1r4vtzz,.css-48ayfv{
+  width: 300px !important;
+  border: 1px solid #d7d7d7 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+  padding: 9px !important;
+  margin-right: 5px !important;
+
+}
+div > .css-1pcexqc-container {
+  width: 300px;
+}
+
+.dropzone {
+  border: 2px solid #eeeeee !important;
+  background: #fafafa !important;
+  padding: 50px;
+  align-items: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  transition: border .24s ease-in-out;
+  width: 100%
+}
+
+
+.dropzone:hover {
+  background-image: linear-gradient(-45deg, #eff1f5 25%, transparent 25%,
+    transparent 50%, #eff1f5 50%, #eff1f5 75%, transparent 75%, transparent) !important;
+  background-size: 30px 30px !important;
+  animation: striped 2s linear infinite !important;
+}
+
+@keyframes striped{
+  from {
+    background-position: 0 0
+  }
+
+  to {
+    background-position: 50px 20px
+  }
+}
