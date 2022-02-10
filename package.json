@@ -83,7 +83,7 @@
   "devDependencies": {
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.27",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-times": "^3.1.12"
